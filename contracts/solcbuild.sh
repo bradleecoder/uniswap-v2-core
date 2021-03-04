@@ -1,4 +1,4 @@
 #!/bin/sh
 
 
-solc --bin --abi --optimize --overwrite -o ./abibin testkeccak.sol
+solc0.5.16 --bin --abi --optimize --overwrite -o ./abibin testkeccak.sol
